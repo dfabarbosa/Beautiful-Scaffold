@@ -183,17 +183,17 @@ module BeautifulScaffoldCommonMethods
     gems = {
       'will_paginate' => nil, # v 3.1.5
       'ransack' => nil,
-      'polyamorous' => '1.3.1',
+      'polyamorous' => nil,
       'jquery-ui-rails' => nil,
-      'prawn' => '2.1.0',
-      'prawn-table' => '0.2.2',
+      'prawn' => nil,
+      'prawn-table' => nil,
       'sanitize' => nil,
-      'twitter-bootstrap-rails' => '3.2.2',
-      'font-awesome-rails' => '4.7.0.2',
+      'twitter-bootstrap-rails' => nil,
+      'font-awesome-rails' => nil,
       'chardinjs-rails' => nil,
-      'momentjs-rails' => '>= 2.9.0',
-      'bootstrap3-datetimepicker-rails' => '~> 4.17.47',
-      'jquery-rails' => '4.3.1'
+      'momentjs-rails' => nil,
+      'bootstrap3-datetimepicker-rails' => nil,
+      'jquery-rails' => nil
     }
 
     # Si engine il faut mettre les gems dans le gemspec et faire le require
